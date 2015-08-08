@@ -4,5 +4,5 @@
   <artifactId>webapp_project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>Maven Test</name>
+  <name>My Maven Test</name>
 </project>
